@@ -1,0 +1,6 @@
+name: FastPotions
+version: ${project.version}
+main: com.gfplugins.fastpotions.FastPotions
+authors: [Gianluca]
+description: An incredibly simple plugin to allow for the quick use of Splash Potions whilst sprinting
+website: https://gfplugins.com
